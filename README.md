@@ -1,5 +1,9 @@
 # Chào mừng đến với GitHub của Tôi! 👋
 
+[![License](https://img.shields.io/github/license/Arter2507/Arter2507)](LICENSE) [![Repo size](https://img.shields.io/github/repo-size/Arter2507/Arter2507)](https://github.com/Arter2507/Arter2507) [![Top language](https://img.shields.io/github/languages/top/Arter2507/Arter2507)](https://github.com/Arter2507/Arter2507)
+
+Danh xưng: **Arter / Cam**
+
 Tôi là một lập trình viên đam mê xây dựng các giải pháp phần mềm hiện đại và hiệu quả. Dưới đây là sơ đồ các dự án của tôi được phân loại để bạn dễ dàng theo dõi.
 
 ## Dự án Nổi bật (Featured)
@@ -34,6 +38,65 @@ Tôi là một lập trình viên đam mê xây dựng các giải pháp phần 
 ### Khác (Miscellaneous)
 *   **[guide-justice-online-nth](https://github.com/Arter2507/guide-justice-online-nth)**: Hướng dẫn chơi game Nghịch Thủy Hàn.
 *   **[edu-snippets](https://github.com/Arter2507/edu-snippets)**: Kho lưu trữ các bài tập nhỏ và code mẫu.
+
+---
+
+## Hướng dẫn cài đặt (Installation)
+
+Các dự án trong repository này bao gồm nhiều công nghệ khác nhau. Hướng dẫn tổng quát để bắt đầu:
+
+1. Clone repository:
+
+```bash
+git clone https://github.com/Arter2507/Arter2507.git
+cd Arter2507
+```
+
+2. Chọn dự án con bạn muốn chạy, ví dụ `app-person-hub`.
+
+3. Ví dụ các bước nhanh theo công nghệ:
+   - Java (Maven/Gradle):
+
+```bash
+cd edu-java-final-s4
+# Maven
+mvn clean install
+mvn spring-boot:run
+```
+
+   - .NET (dotnet):
+
+```bash
+cd edu-dotnet-auction
+dotnet restore
+dotnet run
+```
+
+   - Node / JS:
+
+```bash
+cd app-cosmic-planner
+npm install
+npm start
+```
+
+   - Flutter:
+
+```bash
+cd edu-mobile-flutter
+flutter pub get
+flutter run
+```
+
+4. Xem README riêng của từng dự án con để biết hướng dẫn chi tiết hơn.
+
+---
+
+## License
+
+This repository is provided under the MIT License. See the LICENSE file for full details.
+
+License: MIT © 2026 Arter2507
 
 ---
 
